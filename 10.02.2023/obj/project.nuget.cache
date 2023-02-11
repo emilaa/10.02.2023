@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "E1TT25Ng4Qr/GClNXoj4261I2crTd3Q/2Y3pz7FNSgQU8QtHcVMO7lIXD9nHyf8VRZ3RxBxpzvLbynIMDARANQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Emil Abdullayev\\Desktop\\Programming\\P138\\10.02.2023\\10.02.2023\\10.02.2023.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Emil Abdullayev\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

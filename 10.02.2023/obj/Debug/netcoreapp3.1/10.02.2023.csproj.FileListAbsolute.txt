@@ -1,0 +1,14 @@
+C:\Users\Emil Abdullayev\Desktop\Programming\P138\10.02.2023\10.02.2023\bin\Debug\netcoreapp3.1\10.02.2023.exe
+C:\Users\Emil Abdullayev\Desktop\Programming\P138\10.02.2023\10.02.2023\bin\Debug\netcoreapp3.1\10.02.2023.deps.json
+C:\Users\Emil Abdullayev\Desktop\Programming\P138\10.02.2023\10.02.2023\bin\Debug\netcoreapp3.1\10.02.2023.runtimeconfig.json
+C:\Users\Emil Abdullayev\Desktop\Programming\P138\10.02.2023\10.02.2023\bin\Debug\netcoreapp3.1\10.02.2023.runtimeconfig.dev.json
+C:\Users\Emil Abdullayev\Desktop\Programming\P138\10.02.2023\10.02.2023\bin\Debug\netcoreapp3.1\10.02.2023.dll
+C:\Users\Emil Abdullayev\Desktop\Programming\P138\10.02.2023\10.02.2023\bin\Debug\netcoreapp3.1\10.02.2023.pdb
+C:\Users\Emil Abdullayev\Desktop\Programming\P138\10.02.2023\10.02.2023\obj\Debug\netcoreapp3.1\10.02.2023.csproj.AssemblyReference.cache
+C:\Users\Emil Abdullayev\Desktop\Programming\P138\10.02.2023\10.02.2023\obj\Debug\netcoreapp3.1\10.02.2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil Abdullayev\Desktop\Programming\P138\10.02.2023\10.02.2023\obj\Debug\netcoreapp3.1\10.02.2023.AssemblyInfoInputs.cache
+C:\Users\Emil Abdullayev\Desktop\Programming\P138\10.02.2023\10.02.2023\obj\Debug\netcoreapp3.1\10.02.2023.AssemblyInfo.cs
+C:\Users\Emil Abdullayev\Desktop\Programming\P138\10.02.2023\10.02.2023\obj\Debug\netcoreapp3.1\10.02.2023.csproj.CoreCompileInputs.cache
+C:\Users\Emil Abdullayev\Desktop\Programming\P138\10.02.2023\10.02.2023\obj\Debug\netcoreapp3.1\10.02.2023.dll
+C:\Users\Emil Abdullayev\Desktop\Programming\P138\10.02.2023\10.02.2023\obj\Debug\netcoreapp3.1\10.02.2023.pdb
+C:\Users\Emil Abdullayev\Desktop\Programming\P138\10.02.2023\10.02.2023\obj\Debug\netcoreapp3.1\10.02.2023.genruntimeconfig.cache
